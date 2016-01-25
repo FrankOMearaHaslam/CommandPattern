@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\main.cpp</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\InputHandler.cpp</string>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\InputHandler.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\Lean.cpp</string>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\Lean.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\crouch.cpp</string>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\crouch.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\Fire.cpp</string>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\Fire.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\Jump.cpp</string>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\Jump.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\Command.cpp</string>
+      <string>C:\4th year\Game seng2\CommandPatterns\CommandPatterns\Command.h</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
